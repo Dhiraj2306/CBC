@@ -1,0 +1,52 @@
+
+@"
+# API keys and environment secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and package files
+build/
+dist/
+*.egg-info/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+"@ | Set-Content -Encoding utf8 .gitignore
+
+PENAI_API_KEY=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

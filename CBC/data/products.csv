@@ -1,0 +1,31 @@
+product_id,name,category,brand,price_inr,rating,review_count,popularity_score,features,tags
+P001,AeroBook 14,Laptop,NovaTech,54999,4.5,820,760,16GB RAM; 512GB SSD; 14-inch; 1.4kg,student productivity portability
+P002,PowerPro 15,Laptop,NovaTech,64999,4.6,640,920,16GB RAM; 1TB SSD; 15.6-inch; 1.9kg,coding performance multitasking
+P003,LiteNote Air,Laptop,Orbit,72999,4.4,520,640,16GB RAM; 512GB SSD; 13.6-inch; 1.2kg,portable battery student
+P004,CreatorBook X,Laptop,PixelForge,89999,4.7,430,850,32GB RAM; 1TB SSD; 15.6-inch; 1.8kg,creative work coding performance
+P005,Everyday 15,Laptop,Orbit,42999,4.2,1100,1200,8GB RAM; 512GB SSD; 15.6-inch; 1.8kg,budget student office
+P006,GameCore 16,Laptop,Volt,99999,4.5,390,700,16GB RAM; 1TB SSD; 16-inch; 2.4kg; dedicated GPU,gaming performance
+P007,StudyMate 14,Laptop,EduTech,36999,4.1,1450,1500,8GB RAM; 256GB SSD; 14-inch; 1.5kg,budget student portability
+P008,DevStation 15,Laptop,Volt,77999,4.6,480,890,32GB RAM; 1TB SSD; 15.6-inch; 2.0kg,coding development performance
+P009,TravelBook S,Laptop,Aster,59999,4.3,600,720,16GB RAM; 512GB SSD; 14-inch; 1.3kg; long battery,travel battery portability
+P010,OfficeMax 15,Laptop,Aster,48999,4.0,980,1000,8GB RAM; 512GB SSD; 15.6-inch; 1.7kg,office budget productivity
+P011,SoundPods Pro,Headphones,Echo,7999,4.5,2300,2400,ANC; wireless; 30-hour battery,music travel calls
+P012,BassBeat Lite,Headphones,Echo,2999,4.2,4100,3500,Wireless; 20-hour battery; bass,budget music
+P013,QuietWave Max,Headphones,Sonic,12999,4.7,1800,1900,ANC; wireless; 40-hour battery,travel calls focus
+P014,FitWatch 3,Smartwatch,Pulse,8999,4.3,1900,1700,GPS; heart-rate; 7-day battery,fitness health
+P015,ActiveBand S,Smartwatch,Pulse,3999,4.1,5200,4400,Heart-rate; 10-day battery; water resistant,budget fitness
+P016,PixelSnap 12,Smartphone,PixelForge,54999,4.6,1300,1150,256GB; OLED; 50MP camera; 5G,camera photography performance
+P017,NovaPhone A,Smartphone,NovaTech,24999,4.3,3600,2900,128GB; OLED; 50MP camera; 5G,budget everyday camera
+P018,Orbit Ultra,Smartphone,Orbit,69999,4.7,950,900,256GB; OLED; premium camera; 5G,camera performance premium
+P019,BatteryMax 5G,Smartphone,Volt,18999,4.2,4200,3200,128GB; 6000mAh; 5G; 120Hz,budget battery gaming
+P020,SnapMini,Smartphone,Aster,14999,4.0,5100,3900,128GB; 5000mAh; 5G,budget battery everyday
+P021,BrewMate 1.5L,Kitchen,HomeGood,2499,4.4,1500,1400,1.5L; auto shut-off; stainless steel,kitchen home
+P022,AirFry Plus,Kitchen,HomeGood,6999,4.5,980,1050,5L; digital controls; 8 presets,healthy cooking family
+P023,CleanBot Mini,Home Appliances,Neat,14999,4.2,670,620,Robot vacuum; app control; 90-minute runtime,cleaning smart home
+P024,PureAir 200,Home Appliances,Neat,8999,4.3,830,760,HEPA filter; 3 fan speeds; room sensor,air quality home
+P025,DeskLamp Flex,Home,Bright,1299,4.1,2600,2100,LED; adjustable arm; 3 color modes,study desk budget
+P026,ErgoChair Basic,Furniture,SitWell,7999,4.2,740,680,Adjustable height; lumbar support,office comfort study
+P027,PowerBank 20K,Accessories,Volt,1999,4.5,3900,3200,20000mAh; USB-C; fast charging,travel battery budget
+P028,FastCharge 65W,Accessories,Volt,1799,4.3,2800,2400,65W USB-C; compact charger,charging travel
+P029,WebCam HD,Accessories,PixelForge,3499,4.2,1200,980,1080p; autofocus; built-in mic,online classes meetings
+P030,SSD Portable 1TB,Accessories,NovaTech,6499,4.6,970,900,1TB; USB-C; portable storage,backup coding travel
