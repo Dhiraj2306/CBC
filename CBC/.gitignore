@@ -49,4 +49,4 @@ desktop.ini
 
 "@ | Set-Content -Encoding utf8 .gitignore
 
-PENAI_API_KEY=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
+OPENAI_API_KEY=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
