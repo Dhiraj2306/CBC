@@ -1,4 +1,0 @@
-
-Note:evaluating a postfix expn is much faster compaired to infix becoz of 2 reasons
-    1.no need to worry abt the predence of the operators
-    2.no need to worry abt the parenthesis
